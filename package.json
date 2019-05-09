@@ -29,6 +29,7 @@
     "typography-theme-moraga": "^0.16.19"
   },
   "devDependencies": {
+    "firebase-tools": "^6.9.1",
     "prettier": "^1.17.0"
   },
   "keywords": [
