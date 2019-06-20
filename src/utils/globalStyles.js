@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
   a {
@@ -6,7 +6,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: bold;
     text-decoration: none;
     &:hover {
-      color: #9D9899;
+      color: #a742f4;
     }
   }
 `
